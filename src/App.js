@@ -5,8 +5,8 @@ import Lightroom from './pages/Home/Lightroom';
 const App = () => {
   return (
     <>
-      <AppLista />
-      {/*<Lightroom />*/}
+      <Lightroom />
+      {/*<AppLista />*/}
     </>
   );
 };
